@@ -1,0 +1,115 @@
+@media screen and (max-width: 1120px) {
+    #search-bar {
+        max-width: 20rem;
+    }
+
+    body {
+        font-size: small;
+    }
+}
+
+
+body {
+    padding: 1rem;
+}
+
+i {
+    color: brown;
+}
+
+.nav-link {
+    color: brown;
+}
+
+.site-name {
+    color: brown;
+}
+
+nav {
+    background-color: floralwhite;
+}
+
+.fa-facebook:hover {
+    color: #4267b3;
+}
+
+.fa-twitter:hover {
+    color: #1da1f2;
+}
+
+.fa-instagram:hover {
+    color: #ce2b94;
+}
+
+.fa-user:hover {
+    color: blue;
+}
+
+.fa-bell:hover {
+    color: red;
+}
+
+@media screen and (max-width: 764px) {
+
+    .fa-solid {
+        font-size: 20px;
+    }
+
+    .fa-brands {
+        font-size: 26px;
+    }
+
+
+    .nav a {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+}
+
+
+    .clearfix::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+
+    /* FOOTER */
+    footer {
+        background-color: #536678;
+        color: #fff;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        text-align: center;
+    }
+
+    footer h4 {
+        font-size: 2.4rem;
+    }
+
+    footer p {
+        font-size: 2rem;
+        font-family: Montserrat;
+        margin-top: 1rem;
+    }
+
+    footer ul {
+        margin-top: 1rem;
+    }
+
+    footer li {
+        display: inline-block;
+        margin-right: 1rem;
+    }
+
+
+    .copyright {
+        background-color: #19262F;
+        padding-top: 2.4rem;
+        padding-bottom: 2.4rem;
+        color: #fff;
+        text-align: center;
+    }
+
+
+    /* FOOTER END */
